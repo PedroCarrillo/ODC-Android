@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ODCAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_first_container">English text 1</string>
+    <string name="text_second_container">English text 2</string>
+    <string name="text_third_container">English text 3</string>
+</resources>

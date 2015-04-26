@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ODCAndroid</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Opciones</string>
+
+    <string name="text_first_container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in ligula tellus. Donec eget lobortis magna. Sed vel ipsum urna. Maecenas laoreet diam eu risus volutpat convallis. Cras malesuada ipsum nec enim laoreet commodo. Fusce pulvinar ullamcorper euismod. Donec at mattis mauris, sed sollicitudin neque. Nam et tellus mi. Proin in nunc rhoncus, varius massa quis, maximus neque. Suspendisse venenatis cursus lorem in feugiat. Vivamus lacinia dapibus sapien, ut imperdiet erat dapibus eget.</string>
+    <string name="text_second_container">Sed tortor est, elementum at nibh vitae, blandit cursus ipsum. Proin dictum aliquam nisi, non eleifend orci sollicitudin non. Curabitur commodo magna vel felis congue varius. Curabitur pretium quam non sem ultrices iaculis. Praesent congue vestibulum nunc, quis rhoncus urna ultrices semper. Curabitur quis leo ut dui fringilla imperdiet vel vestibulum eros. Etiam ut lacus risus.</string>
+    <string name="text_third_container">Duis et leo lorem. Nulla mattis tortor et euismod euismod. Etiam lobortis turpis at libero laoreet, in aliquet tellus viverra. Praesent accumsan turpis ac dolor tincidunt, eu laoreet urna pretium. Nullam libero lorem, gravida ut mi at, porta varius sem. Donec rhoncus in sapien id dignissim</string>
+</resources>
